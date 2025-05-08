@@ -1,6 +1,3 @@
-![lunar_city_by_5ldo0on_djht6th](https://github.com/user-attachments/assets/57cf8f01-1821-4990-9195-f3f24d86e490)
-
-
 
 # 💫 About Me:
 Hello!👋, I am Kaushiik , a second-year B.Tech Student at SRMIST KTR Branch, Studying Computer Science and Engineering with specialization in Core.<br>I am quite familiar with Full-Stack Development, and languages like C, C++ , Python.<br>I am getting into Responsive and Generative AI as I believe they are one of the keys to the future. And looking forward to collaborate on projects regarding the same.
