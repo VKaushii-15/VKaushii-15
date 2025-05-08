@@ -1,4 +1,6 @@
-![incline___steam_workshop_showcase_by_krax123_dicma7q](https://github.com/user-attachments/assets/b111eba4-3fbe-400c-a65e-8360069f1dae)
+<p align = "center">
+  <img src = "https://github.com/user-attachments/assets/b111eba4-3fbe-400c-a65e-8360069f1dae"
+</p>
 
 # 💫 About Me:
 Hello!👋, I am Kaushiik , a second-year B.Tech Student at SRMIST KTR Branch, Studying Computer Science and Engineering with specialization in Core.<br>I am quite familiar with Full-Stack Development, and languages like C, C++ , Python.<br>I am getting into Responsive and Generative AI as I believe they are one of the keys to the future. And looking forward to collaborate on projects regarding the same.
