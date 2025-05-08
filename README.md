@@ -1,3 +1,7 @@
+# Image
+![lunar_city_by_5ldo0on_djht6th](https://github.com/user-attachments/assets/e150ed2e-0db2-424b-8271-b6243ea998b2)
+
+
 # 💫 About Me:
 Hello!👋, I am Kaushiik , a second-year B.Tech Student at SRMIST KTR Branch, Studying Computer Science and Engineering with specialization in Core.<br>I am quite familiar with Full-Stack Development, and languages like C, C++ , Python.<br>I am getting into Responsive and Generative AI as I believe they are one of the keys to the future. And looking forward to collaborate on projects regarding the same.
 
@@ -12,8 +16,14 @@ Hello!👋, I am Kaushiik , a second-year B.Tech Student at SRMIST KTR Branch, S
 ![](https://nirzak-streak-stats.vercel.app/?user=VKaushii-15&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VKaushii-15&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VKaushii-15&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+# Image
+![pixel_skyline_by_erikaducharme_df4s3qr](https://github.com/user-attachments/assets/4f44a08a-3289-47f9-94e1-d38467cc4153)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -23,5 +33,7 @@ Hello!👋, I am Kaushiik , a second-year B.Tech Student at SRMIST KTR Branch, S
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VKaushii-15&icon=9&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
